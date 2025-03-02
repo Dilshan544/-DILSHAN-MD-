@@ -21,46 +21,7 @@ You will need a session ID to run the DILSHAN=MD. Click the button below to obta
 </a>
 <br> 
 
----
 
-## Deployment
-
-You can deploy this bot for free on the following platforms:
-
-
-
-
-## 🔗 DILSHAN-MD INFO
-
----
-
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
-
-![Docker Size](https://img.shields.io/docker/image-size/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Pulls)
-
-![forks](https://img.shields.io/github/forks/lakaofc/laka-md?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/lakaofc/laka-md?style=social)
-
-![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Laka%20ofc&color=purple&style=plastic)
-----
-
-## 🌐 WhatsApp Channel 
-
----
-
-Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
-
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y)
-
----
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
----
 
 
 
