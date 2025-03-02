@@ -27,14 +27,10 @@ You will need a session ID to run the DILSHAN=MD. Click the button below to obta
 
 You can deploy this bot for free on the following platforms:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md.git)
-
-[<img src='https://img.shields.io/badge/Deploy%20to%20Replit-blue?style=for-the-badge&logo=replit&logoColor=white' width=150 height=28 />](https://replit.com/github//lakaofc/laka-md)
-
-[<img src='https://img.shields.io/badge/Deploy%20to%20Glitch-grey?style=for-the-badge&logo=glitch&logoColor=white' width=150 height=28 />](https://glitch.com/edit/#!/import/github/lakaofc/laka-md)
 
 
-## 🔗 LAKA-MD INFO
+
+## 🔗 DILSHAN-MD INFO
 
 ---
 
