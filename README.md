@@ -14,14 +14,19 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You will need a session ID to run the DILSHAN=MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
-> **Get Pair Code (Session ID)**
+> **Get Pair Code (Session ID1)**
 
 <a href='https://prabath-md-pair-web-v2-slk.koyeb.app/pair' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
+>a **Get pair code (Session ID2)**
 
+>a href='https://webd-didula-rashmikas-projects.vercel.app/' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
 
 
 
